@@ -1,4 +1,4 @@
-![ID-Cosmo stats](https://github-readme-stats.vercel.app/api?username={ID-Cosmo}&show_icons=true)
+![ID-Cosmo stats](https://github-readme-stats.vercel.app/api?username=ID-Cosmo&show_icons=true)
 
 <!--
 **ID-Cosmo/ID-Cosmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
