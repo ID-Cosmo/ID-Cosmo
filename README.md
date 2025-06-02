@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,c#,js)](https://skillicons.dev)
 <br><br>
 [![Linkedin: Tiago Borges](https://img.shields.io/badge/-{TiagoBorges}-blue?style=flat-square&logo=Linkedin&logoColor=white&link={www.linkedin.com/in/tiago-borges-4b1a77245}/)]({www.linkedin.com/in/tiago-borges-4b1a77245})
-[![Gmail Badge](https://img.shields.io/badge/-t.i.borges.ll@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{t.i.borges.ll@gmail.com})](mailto:{t.i.borges.ll@gmail.com})
+[![Gmail Badge](https://img.shields.io/badge/-E-mail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{t.i.borges.ll@gmail.com})](mailto:{t.i.borges.ll@gmail.com})
 <!--
 **ID-Cosmo/ID-Cosmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
