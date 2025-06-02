@@ -1,6 +1,13 @@
 ![ID-Cosmo stats](https://github-readme-stats.vercel.app/api?username=ID-Cosmo&show_icons=true)
 
+
+
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID-Cosmo&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=Python,Java,C#,sql,js)](https://skillicons.dev)
 <!--
 **ID-Cosmo/ID-Cosmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
