@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on maintain the discipline of always updating github.
 - 🌱 I’m currently learning Cloud computing through college, however, on the side, I'm studying OOP.
 - 👯 I'm looking to collaborate on more open source projects.
-- 💬 AAsk me about psychology and I guarantee we'll have hours of conversation hehe.
-- ⚡ Fun fact: Fun fact: I have a collection of mugs.
+- 💬 Ask me about psychology and I guarantee we'll have hours of conversation hehe.
+- ⚡ Fun fact: I have a collection of mugs.
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID-Cosmo&hide=javascript,css,python,html,c,html&theme=tokyonight)
 <br><br>
