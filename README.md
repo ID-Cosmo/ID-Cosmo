@@ -8,7 +8,6 @@
 - 💬 Ask me about psychology and I guarantee we'll have hours of conversation hehe.
 - ⚡ Fun fact: I have a collection of mugs.
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID-Cosmo&hide=javascript,css,python,html,c,html&theme=tokyonight)
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,c)](https://skillicons.dev)
 <br><br>
