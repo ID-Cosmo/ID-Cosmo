@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I have a collection of mugs.
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,go,c)](https://skillicons.dev)
 <br><br>
 [![Linkedin: Tiago Borges](https://img.shields.io/badge/-TiagoBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link={www.linkedin.com/in/tiago-borges-4b1a77245}/)]({www.linkedin.com/in/tiago-borges-4b1a77245})
 [![Gmail Badge](https://img.shields.io/badge/-t.i.borges.ll@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{t.i.borges.ll@gmail.com})](mailto:{t.i.borges.ll@gmail.com})
